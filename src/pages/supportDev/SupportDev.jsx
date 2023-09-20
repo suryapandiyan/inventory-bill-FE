@@ -27,7 +27,7 @@ const SupportDev = () => {
       key_secret: import.meta.env.VITE_RAZAR_SECRET,
       amount: values.amount * 100,
       currency: "INR",
-      name: "Suriya Corp",
+      name: "Surya Corp",
       description: "Test Transaction",
       image:
         "https://clipart-library.com/image_gallery2/Superman-Logo-Free-Download-PNG.png",
